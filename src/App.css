@@ -1,0 +1,15 @@
+#head{
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+input {
+       width: 100%;
+      margin-left: 3rem;
+       
+}
+
+.button {
+  width: 80px;
+  margin-bottom: 10px;
+
+}
